@@ -6,5 +6,5 @@ test:
   secret_token: "secret"
 production:
   server: "https://testchattynow.herokuapp.com/faye"
-  secret_token: "secret"
-  signature_expiration: 3600 # one hour
+  secret_token: "password"
+  signature_expiration: 86400 # one hour
