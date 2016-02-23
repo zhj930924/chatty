@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'foreman'
 gem 'eventmachine', '~>1.0.4'
 gem 'rails'
 gem 'sass-rails'
